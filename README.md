@@ -1,4 +1,5 @@
 Branch Navigator - AI-Powered Branch Analytics Platform
+
 Overview
 Branch Navigator is an end-to-end AI/ML analytics platform built on the Rossmann Store Sales dataset (~1M rows, 1,115 branches). It combines machine learning, time-series forecasting, anomaly detection, and LangChain-based intelligent agents to help businesses optimize branch performance and make data-driven decisions.
 
